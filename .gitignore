@@ -18,6 +18,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Project files
+.idea
+.ipynb_checkpoints
+
 # =========================
 # Operating System Files
 # =========================
