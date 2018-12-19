@@ -1,2 +1,2 @@
 # cc_simulator
-Simulator for causal classification analysis
+Simulator for causal classification analysis.
